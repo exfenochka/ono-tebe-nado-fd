@@ -10,7 +10,7 @@
     white-space: nowrap;
     list-style: circle;
     gap: 33px;
-    font-family: 400;
+    font-weight: 400;
     font-size: 18px;
 }
 
@@ -61,7 +61,6 @@
     position: relative;
     z-index: 1;
     color: white;
-    font-family: 'Raleway', sans-serif;
     font-size: 100px;
 }
 
